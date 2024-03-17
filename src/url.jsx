@@ -1,0 +1,1 @@
+export const baseUrl = 'https://mostaf-elsaiiad-food-ordering-api.onrender.com/'
